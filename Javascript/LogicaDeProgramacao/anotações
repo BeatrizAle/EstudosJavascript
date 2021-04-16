@@ -1,0 +1,3 @@
+prompt("") = pede informações ao usuário
+alert("") = mostra uma caixinha de informação/alerta para o usuário
+typeof = mostra que tipo de variavel é - Exe String, number
