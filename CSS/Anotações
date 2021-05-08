@@ -1,0 +1,7 @@
+font-family -> Defini o tipo da fonte Ex font-family: Arial;
+font-size -> defini o tamanho da letra Ex font-size: 15px;
+font-style -> defini o stilo da font Ex font-style: italic;
+font-variant -> consegue deixar letras minusculas todas maiusculas;
+color -> mudar a cor da letra Ex Color: pink;
+text-align -> altera a posisão do texto Ex text-align: center;
+text-decoration -> colocar sublinhado nas palavras Ex text-decoration: underline;
